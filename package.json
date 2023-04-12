@@ -1,8 +1,11 @@
 {
-  "name": "angular.io-example",
+  "name": "angular.basic-example",
   "version": "0.0.0",
-  "description": "Example project from an angular.io guide.",
+  "description": "Example project from wzc.",
   "license": "MIT",
+  "author": {
+    "name": "wzc520pyfm"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
